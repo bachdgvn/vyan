@@ -8,6 +8,10 @@
     src: url(./YesevaOne-Regular.ttf);
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
     display: block;
     margin: 0;
